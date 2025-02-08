@@ -1,12 +1,14 @@
 .outer-div{
+	/* width:300px; */
 	border:1px solid black;
 }
 .most-outer{
+	width:300px;
 	margin: 20px;
 	border: 15px solid blue;
 }
 .most-inner{
 	padding:50px;
 	background:lightblue;
-	width:300px;
+	/* width:300px; */
 }
