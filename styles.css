@@ -1,13 +1,9 @@
-.outer-div{
-	/* width:300px; */
-	/* border:1px solid black; */
-}
-.most-outer{
-}
-.most-inner{
+
+/* Your CSS Code here. */
+.box {
+	background-color: lightblue; 
+	padding: 50px;
+	width: 300px;
 	border: 15px solid blue;
 	margin: 20px;
-	width:300px;
-	padding:50px;
-	background:lightblue;
 }
